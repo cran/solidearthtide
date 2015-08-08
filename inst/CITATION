@@ -1,0 +1,10 @@
+bibentry(
+bibtype ="Manual",
+ title = "{solidearthtide} Solid Earth Tide Computation",
+ author = "Jos{\\'e} Gama [cre,aut],
+Dennis Milbert [cph,aut]",
+ year = "2015",
+ note = "R package version 1.0.0",
+ key = "solidearthtide-package"
+ )
+

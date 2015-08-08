@@ -1,0 +1,6 @@
+useDynLib(solidearthtide)
+exportPattern("^[[:alpha:]]+")
+importFrom("stats", "spline")
+importFrom("utils", "data", "write.table")
+
+

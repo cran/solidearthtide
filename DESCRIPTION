@@ -1,0 +1,24 @@
+Package: solidearthtide
+Type: Package
+Title: Solid Earth Tide Computation
+Version: 1.0.0
+Encoding: UTF-8
+Authors@R: c(person(given = "Jose", family = "Gama", role = c("aut","cre"),
+ email = "rxprtgama@gmail.com"),
+    person(given = "Dennis", family = "Milbert", role = c("aut","cph")))  
+Description: Predicted solid earth tide displacements in the meridional,
+        zonal and vertical directions. Based on "Solid" from Dennis Milbert, 
+        modified from "dehanttideinelMJD" by V. Dehant, S. Mathews, J. Gipson, 
+        and C. Bruyninx.
+License: GPL (>= 3)
+Depends: R (>= 2.7.0)
+Author: Jose Gama [aut, cre],
+  Dennis Milbert [aut, cph]
+Maintainer: Jose Gama <rxprtgama@gmail.com>
+Repository: CRAN
+Repository/R-Forge/Project: solidearthtide
+Repository/R-Forge/Revision: 4
+Repository/R-Forge/DateTimeStamp: 2015-08-08 14:51:25
+Date/Publication: 2015-08-08 19:18:15
+NeedsCompilation: yes
+Packaged: 2015-08-08 15:05:10 UTC; rforge
