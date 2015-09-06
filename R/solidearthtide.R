@@ -13,7 +13,7 @@ if (!is.numeric(latIn)) stop('Argument <<latIn>> should be a number')
 # glod	Lon. (pos E.) [-360,+360]
 retArray <- matrix(0,1441, 4)
 retErr <- 0
-ret <- .Fortran("calctide",'',iyr = as.integer(yearIn), imo = as.integer(monthIn), 
+ret <- .Fortran("calctide",iyr = as.integer(yearIn), imo = as.integer(monthIn), 
 idy = as.integer(dayIn), glad = as.double(latIn), glod = as.double(lonIn), iretarray=as.integer(boolRet), retArray=retArray,
 retErr=as.integer(retErr) ,DUP = TRUE, PACKAGE="solidearthtide")
 if (retErr !=0) stop(paste('Error ',retErr))

@@ -23,7 +23,7 @@
       end subroutine initialize
 *-----------------------------------------------------------------------
 
-      subroutine calctide(fname, iyr, imo, idy, glad, glod, iret, 
+      subroutine calctide(iyr, imo, idy, glad, glod, iret, 
      &     retr, ierr)
 * iyr	year    [1980-2016]
 * imo	month number [1-12]
@@ -33,7 +33,6 @@
 
       implicit double precision(a-h,o-z)
       dimension rsun(3),rmoon(3),etide(3),xsta(3)
-      CHARACTER*64 fname
 
       double precision retr(1441, 4)
 
@@ -41,9 +40,9 @@
       common/comgrs/a,e2
       call initialize()
       lout=1
-      if(iret .eq.  0.d0) then
-        open(lout,file=fname,form='formatted',status='unknown')
-      end if
+*      if(iret .eq.  0.d0) then
+*        open(lout,file=fname,form='formatted',status='unknown')
+*      end if
 
 *** position of observing point (positive East)
 

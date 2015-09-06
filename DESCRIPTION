@@ -1,7 +1,7 @@
 Package: solidearthtide
 Type: Package
 Title: Solid Earth Tide Computation
-Version: 1.0.0
+Version: 1.0.2
 Encoding: UTF-8
 Authors@R: c(person(given = "Jose", family = "Gama", role = c("aut","cre"),
  email = "rxprtgama@gmail.com"),
@@ -17,8 +17,8 @@ Author: Jose Gama [aut, cre],
 Maintainer: Jose Gama <rxprtgama@gmail.com>
 Repository: CRAN
 Repository/R-Forge/Project: solidearthtide
-Repository/R-Forge/Revision: 4
-Repository/R-Forge/DateTimeStamp: 2015-08-08 14:51:25
-Date/Publication: 2015-08-08 19:18:15
+Repository/R-Forge/Revision: 7
+Repository/R-Forge/DateTimeStamp: 2015-09-06 10:53:12
+Date/Publication: 2015-09-06 19:31:01
 NeedsCompilation: yes
-Packaged: 2015-08-08 15:05:10 UTC; rforge
+Packaged: 2015-09-06 11:06:26 UTC; rforge

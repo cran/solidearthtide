@@ -1,6 +1,6 @@
-051a5a0be1aab8e280cd1f8057a65d42 *DESCRIPTION
+b49eb6c79c8007a58542af84f15b17b3 *DESCRIPTION
 a9e17c00e202e8e91ee0bf940a752380 *NAMESPACE
-eca678f1ed8115626a2ab935fecd8e8a *R/solidearthtide.R
+e9d0fb4b4aa995836b3653ddad48d520 *R/solidearthtide.R
 1b41cefed38000df0c477d203b86287c *R/zzz.r
 b8d2592e5eb58b937b461b3ec08654d5 *data/Diurnal.rda
 e8794aa04b7fdbddd6d03dd46416d3c3 *data/LongTerm.rda
@@ -15,10 +15,10 @@ d1fb78a80eeeeb2ff2fef896fb3cd4e0 *man/CalculateTide.Rd
 956b7c39ef24ccf0d6981cbdf4d8bb4f *man/Datevec.Rd
 c2c1455468c68c078ade4d47237322cd *man/DatevecV.Rd
 6d30007133e0467cd40faafcc921d764 *man/Diurnal.Rd
-73917af2b7dbd59a233ce4e77a72f34f *man/Earthtide.Rd
+0801ce622bc4b13a58f4a7dd5b087962 *man/Earthtide.Rd
 b5f1a0273bf7cf080639e86876917205 *man/GetLeapDates.Rd
 c1a38611430ee3ee5413241c9997e133 *man/LongTerm.Rd
 3568d8005e9bc3f42fcf3b73855f2bdf *man/SemiDiurnal.Rd
 c57ca19257eb3d386cc45563853853d4 *man/UTC2GPS.Rd
 e0f83fccf005a9d68c8752d974d03ed3 *man/UTCtoGPSTimeConversion.Rd
-cd12a5cfe9e5db295e99be22cd1b5262 *src/solid.f
+6dd923e14d8890ecbc72682cdd6196e5 *src/solid.f

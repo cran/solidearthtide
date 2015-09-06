@@ -18,12 +18,12 @@ Earthtide(latIn, lonIn, timeSeq, boolHorizontalMotion = FALSE)
 \source{
 Chad Greene, 2015
 Solid Earth Tide Predictions
-\url{http://www.mathworks.com/matlabcentral/fileexchange/50327-sold-earth-tide-predictions/content/earthtide}
+\url{http://www.mathworks.com/matlabcentral/fileexchange/50327-sold-earth-tide-predictions}
 }
 \references{
 Chad Greene, 2015
 Solid Earth Tide Predictions
-\url{http://www.mathworks.com/matlabcentral/fileexchange/50327-sold-earth-tide-predictions/content/earthtide}
+\url{http://www.mathworks.com/matlabcentral/fileexchange/50327-sold-earth-tide-predictions}
 }
 \author{
 Jose Gama
